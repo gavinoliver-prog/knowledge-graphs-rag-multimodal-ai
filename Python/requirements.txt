@@ -1,0 +1,32 @@
+# Core scientific stack
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+tqdm
+
+# Graphs / knowledge graphs
+networkx
+rdflib
+
+# Foundation models
+torch
+transformers
+sentence-transformers
+accelerate
+huggingface-hub
+
+# Image + PDF handling
+pillow
+pymupdf
+
+# Vector search
+faiss-cpu
+
+# Notebook environment
+jupyter
+notebook
+ipykernel
+ipywidgets
