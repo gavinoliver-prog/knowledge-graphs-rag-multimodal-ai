@@ -1,0 +1,44 @@
+[project]
+name = "knowledge-graphs-and-multimodal-ai"
+version = "0.1.0"
+description = "Notebooks exploring knowledge graphs, multimodal foundation models, RAG, and vector databases"
+requires-python = ">=3.10"
+
+dependencies = [
+    "numpy",
+    "pandas",
+    "matplotlib",
+    "seaborn",
+    "scipy",
+    "scikit-learn",
+    "tqdm",
+
+    # graphs
+    "networkx",
+    "rdflib",
+
+    # foundation models
+    "torch",
+    "transformers",
+    "sentence-transformers",
+    "accelerate",
+    "huggingface-hub",
+
+    # image processing
+    "pillow",
+
+    # PDF extraction
+    "pymupdf",
+
+    # vector search
+    "faiss-cpu",
+
+    # notebooks
+    "jupyter",
+    "notebook",
+    "ipykernel",
+    "ipywidgets"
+]
+
+[tool.uv]
+dev-dependencies = []
