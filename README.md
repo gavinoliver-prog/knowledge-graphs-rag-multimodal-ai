@@ -17,6 +17,19 @@ The notebooks are designed as guided learning exercises and lightweight prototyp
 
 Together they form a practical introduction to several modern AI approaches increasingly used in biomedical data science, computational biology, and translational research.
 
+---
+
+## Python Environment Setup
+
+The Python notebooks use a virtual environment managed with **uv** and dependencies listed in `python/requirements.txt`.
+
+```bash
+cd python
+uv venv
+source .venv/bin/activate
+uv pip install -r requirements.txt
+jupyter notebook
+
 
 ---
 
