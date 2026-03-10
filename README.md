@@ -1,6 +1,6 @@
 # Knowledge Graphs, Multimodal AI and RAG
 
-This repository contains a collection of practical notebooks exploring modern data science and artificial intelligence techniques relevant to computational biology and biomedical research.
+I created this repository containing a collection of practical notebooks exploring modern data science and artificial intelligence techniques relevant to computational biology and biomedical research.
 
 The material progresses from graph-based data modeling and semantic knowledge graphs to multimodal foundation models and retrieval-augmented generation (RAG). The goal is to provide hands-on examples that illustrate how these technologies can be applied to scientific data, literature, and translational research workflows.
 
