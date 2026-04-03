@@ -2,7 +2,7 @@
 
 I created this repository containing a collection of practical notebooks exploring modern data science and artificial intelligence techniques relevant to computational biology and biomedical research.
 
-The material progresses from graph-based data modeling and semantic knowledge graphs to multimodal foundation models and retrieval-augmented generation (RAG). The goal is to provide hands-on examples that illustrate how these technologies can be applied to scientific data, literature, and translational research workflows.
+The material progresses from graph-based data modeling and semantic knowledge graphs to multimodal foundation models and retrieval-augmented generation (RAG). The goal is to provide basic, intuitive, hands-on examples that illustrate how these technologies can be applied to scientific data, literature, and translational research workflows.
 
 Topics covered include:
 
@@ -13,15 +13,15 @@ Topics covered include:
 - retrieval-augmented generation (RAG) systems  
 - vector databases for embedding search  
 
-The notebooks are designed as guided learning exercises and lightweight prototypes rather than production systems. Each notebook focuses on illustrating core ideas with minimal infrastructure so the underlying concepts remain clear.
+The notebooks are designed as guided learning exercises and lightweight prototypes. Each notebook focuses on illustrating core ideas with minimal infrastructure so the underlying concepts are clear.
 
-Together they form a practical introduction to several modern AI approaches increasingly used in biomedical data science, computational biology, and translational research.
+Together they form a foundational introduction to several modern AI approaches increasingly used in biomedical data science, computational biology, and translational research.
 
 ---
 
 ## Python Environment Setup
 
-The Python notebooks use a virtual environment managed with **uv** and dependencies listed in `python/requirements.txt`.
+The Python notebooks use a virtual environment managed with uv and dependencies listed in `python/requirements.txt`.
 
 ```bash
 cd python
@@ -106,7 +106,7 @@ Introduces vector databases used for scalable embedding storage and retrieval. D
 
 # Summary
 
-Together, these notebooks introduce a range of modern computational techniques used in biomedical AI and data science, including:
+Together, the notebooks introduce a range of modern computational techniques used in biomedical AI and data science, including:
 
 - knowledge graph construction and analysis  
 - semantic data integration with RDF and SPARQL  
